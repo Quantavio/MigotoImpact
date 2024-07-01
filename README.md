@@ -9,7 +9,7 @@
 5. Bypass only works for Genshin Impact since it's my main focus.
 
 <div align="center">
-<a href="placeholder"><img src="https://i.ibb.co/zhfqX1g/download.png" alt="download" border="0"></a>
+<a href="https://github.com/Quantavio/MigotoImpact/releases/download/Publish/Multiopen.zip"><img src="https://i.ibb.co/zhfqX1g/download.png" alt="download" border="0"></a>
 </div>
 
 ## FAQ
