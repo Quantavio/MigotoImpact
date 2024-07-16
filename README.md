@@ -15,15 +15,21 @@
 ## FAQ
 
 <details>
-<summary>Why is the code private?</summary>
+<summary>Why is it closed-source?</summary>
 <br>
-Mostly because I don't want miHoYo sending me a DMCA takedown
+Security reasons.
 </details>
 
 <details>
-<summary><span style="color: red;">Why does it say "Unable to open d3dx.ini"?</span></summary>
+<summary>Why does it say "Unable to open d3dx.ini"?</summary>
 <br>
 This is a known issue. If it happens, just reopen the program and it should work.
+</details>
+
+<details>
+<summary>What version of game is it for?</summary>
+<br>
+Latest. Now - 4.7.0  and 4.8 mostly any verison of genshin unless there is a needed change 
 </details>
 
 ## Want to improve this project?
